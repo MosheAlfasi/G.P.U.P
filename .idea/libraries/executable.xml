@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="executable">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/executable/Client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/executable/MutualConfig.jar!/" />
+      <root url="jar://$PROJECT_DIR$/executable/Admin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/executable/dto.jar!/" />
+      <root url="jar://$PROJECT_DIR$/executable/ClientEngine.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
