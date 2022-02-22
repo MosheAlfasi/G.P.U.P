@@ -1,1 +1,0 @@
-java -jar admin.jar
